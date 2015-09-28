@@ -2,7 +2,8 @@ module.exports = function (config) {
   config.set({
 
     files: [
-      'src/**/*.js'
+      'dist/mediatype-parser-browser.js',
+      'src/mediatype-parser.spec.js'
     ],
 
     autoWatch: true,
