@@ -1,7 +1,7 @@
 {
   "name": "mediatype-parser",
   "description": "Parser for RFC 2045 media types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jcassee/linkheader-parser",
   "license": "MIT",
   "main": "dist/mediatype-parser-browser.js",
