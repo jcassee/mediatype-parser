@@ -4,11 +4,6 @@
   "jasmine": true,
   "browserify": true,
   "globals": {
-    "Dexie": false,
-    "UriTemplate": false,
-    "angular": false,
-    "inject": false,
-    "mediaTypeParser": false,
-    "module": false
+    "mediaTypeParser": false
   }
 }
