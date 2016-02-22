@@ -5,6 +5,7 @@
   "repository": "https://github.com/jcassee/mediatype-parser",
   "license": "MIT",
   "main": "dist/mediatype-parser-node.js",
+  "browser": "dist/mediatype-parser-browser.js",
   "devDependencies": {
     "gulp": "^3.9",
     "gulp-batch": "^1.0",
